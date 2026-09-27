@@ -1,0 +1,8 @@
+# dataset original da UCI (23 MB) - baixado automaticamente pelo notebook
+segmentacao_clientes/dados/*.xlsx
+segmentacao_clientes/dados/*.zip
+
+# artefatos Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
